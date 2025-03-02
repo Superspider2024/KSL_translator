@@ -1,0 +1,20 @@
+0 hello
+1 goodbye
+2 A
+3 B
+4 C
+5 D
+6 E
+7 five
+8 Eight
+9 seven
+10 six
+11 nine
+12 happy
+13 kenya
+14 love
+15 Me
+16 you
+17 Thank you
+18 four
+19 understand
